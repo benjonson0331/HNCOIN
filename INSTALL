@@ -1,0 +1,9 @@
+Building Hanacoin
+
+See doc/readme-qt.rst for instructions on building Hanacoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Hanacoin.
+
+See doc/build-*.txt for instructions on building hanacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Hanacoin.
